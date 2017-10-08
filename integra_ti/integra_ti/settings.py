@@ -44,6 +44,7 @@ THIRD_PART_APPS = [
 ]
 LOCAL_APPS = [
     'events',
+    'jobs',
 ]
 
 INSTALLED_APPS = LOCAL_APPS + THIRD_PART_APPS + DEFAULT_APPS
